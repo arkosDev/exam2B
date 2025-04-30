@@ -1,0 +1,21 @@
+[
+	{
+		"primNombre": "Alejandro",
+		"paterno": "Paterno",
+		"materno": "Materno",
+		"edad": 35,
+		"sexo": "M",
+		"fechaNac": "01-01-1990",
+		"puesto": "Vendedor"
+	},
+	{
+		"primNombre": "Ana",
+		"segNombre": "Laura",
+		"paterno": "Paterno",
+		"materno": "Materno",
+		"edad": 25,
+		"sexo": "F",
+		"fechaNac": "01-01-2000",
+		"puesto": "Cajera"
+	}
+]
